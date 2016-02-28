@@ -1,0 +1,34 @@
+{
+  "name": "git-hapi-rest",
+  "version": "0.0.1",
+  "description": "Hapi.js REST-Plugin for Git",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sneezoo/git-hapi-rest.git"
+  },
+  "keywords": [
+    "Git",
+    "Hapi",
+    "REST",
+    "Plugin"
+  ],
+  "dependencies": {
+    "boom": "*",
+    "lodash": "^4.5.1",
+    "nodegit": "*"
+  },
+  "author": "Sneezoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sneezoo/git-hapi-rest/issues"
+  },
+  "homepage": "https://github.com/Sneezoo/git-hapi-rest#readme",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
